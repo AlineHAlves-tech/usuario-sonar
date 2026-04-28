@@ -35,5 +35,6 @@ O sistema simula um cadastro básico de usuários com:
 O projeto tem alguns pontos de código propositalmente simples para que o SonarQube Cloud consiga analisar e exibir sugestões de melhoria.
 
 Análise configurada com SonarQube Cloud.
+Projeto atualizado para nova análise no SonarQube Cloud.
 
 
