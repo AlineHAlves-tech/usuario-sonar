@@ -37,4 +37,4 @@ O projeto tem alguns pontos de código propositalmente simples para que o SonarQ
 Análise configurada com SonarQube Cloud.
 Projeto atualizado para nova análise no SonarQube Cloud.
 Atualização para disparar nova análise no SonarQube Cloud.
-
+novo
